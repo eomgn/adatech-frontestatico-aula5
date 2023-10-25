@@ -1,0 +1,53 @@
+h1 {
+    text-align: center;
+}
+
+.box1 {
+    height: 100px;
+    width: 100px;
+    background: lightblue;
+    border: 1px solid black;
+    /* right: 222px; */
+    position: absolute;
+
+    top: 0;
+    left: 0;
+}
+
+.box2 {
+    height: 100px;
+    width: 100px;
+    background: lightcoral;
+    border: 1px solid black;
+    /* left: 158px; */
+    position: absolute;
+
+    top: 0;
+    left: 102px;
+}
+
+.box3 {
+    height: 100px;
+    width: 100px;
+    background: lightcyan;
+    border: 1px solid black;
+    /* right: 300px;
+    bottom: 100px; */
+    position: absolute;
+
+    top: 0;
+    left: 204px;
+}
+
+.box4 {
+    height: 100px;
+    width: 100px;
+    background: lightgoldenrodyellow;
+    border: 1px solid black;
+    /* top: 355px; */
+    /* right: 0; */
+    position: absolute;
+
+    top: 0;
+    left: 307px;
+}
